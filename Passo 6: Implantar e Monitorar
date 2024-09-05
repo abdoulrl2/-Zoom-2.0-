@@ -1,0 +1,2 @@
+expo build:android
+expo build:ios
